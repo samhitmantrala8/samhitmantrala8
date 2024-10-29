@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samhit</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p align="left">👋 Hi, I’m @samhitmantrala8<br>👀 I’m interested in ML,NLP<br>📫 How to reach me - samhitmantrala8@gmail.com<br>😄 Pronouns: He/Him</p>
+<p align="left">👋 Hi, I’m @samhitmantrala8<br>👀 I’m interested in Full-Stack Development and Machine Learning<br>📫 How to reach me - samhitmantrala8@gmail.com<br>😄 Pronouns: He/Him</p>
 
 
 <h3 align="left">Connect with me:</h3>
