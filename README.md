@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samhit</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p align="left">👋 Hi, I’m @samhitmantrala8<br>👀 I’m interested in Full-Stack Development and Machine Learning<br>📫 How to reach me - samhitmantrala8@gmail.com<br>😄 Pronouns: He/Him</p>
+<p align="left">👋 Hi, I’m @samhitmantrala<br>👀 I’m interested in Full-Stack Development and Machine Learning<br>📫 How to reach me - samhitm21@gmail.com<br>😄 Pronouns: He/Him</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -9,8 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samhitmantrala8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 <p align="left">
-<a href="https://linkedin.com/in/samhit mantrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samhit mantrala" height="30" width="40" /></a>
-<a href="https://kaggle.com/samhitmantrala8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samhitmantrala8" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samhit-mantrala-1bb517252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samhit mantrala" height="30" width="40" /></a>
+<a href="https://kaggle.com/samhitmantrala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samhitmantrala8" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samhitmantrala8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samhitmantrala8" height="30" width="40" /></a>
 </p>
 
